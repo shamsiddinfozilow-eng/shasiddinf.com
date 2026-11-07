@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fozilov-shamsiddin.vercel.app/sitemap.xml
